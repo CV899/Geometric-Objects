@@ -1,9 +1,9 @@
 # Geometric-Objects
 
 This project contains a super class for geometric objects and an implementation for triangles
-
+<hr>
 <i>Specifications:</i>
-
+<hr>
 <b>Triangle.java</b>
 
 • Three double data fields named side1, side2, and side3 with default values 1.0 to denote three sides of
